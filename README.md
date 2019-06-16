@@ -1,5 +1,5 @@
 # AKQA Tech Challenge
-###### The application takes name and number and converts number to words
+###### *The application takes name and number and converts number to words*
 
 
 ###### **_Project Design and Teckstack used_**
